@@ -1,5 +1,5 @@
 # MessText
-The code for messtext.com lol
+The code for messtext.com lol (minus the voting pages)
 
 Keep in mind, none of this works out of the box. You need PHP, ffmpeg, a web server, and a domain with Cloudflare, and you have to edit the server paths in multiple pages in order to host this on your own.
 I slightly edited the code so that you don't need my exact directory structure to host it, but still, you have to edit paths in a lot of places xd
