@@ -1,1 +1,1 @@
-<a href="/" style="font-family:DS;">MessText</a> | <a href="/image" style="font-family:DS;">MessText Images</a> | <a href="https://ko-fi.com/chordsboy" style="font-family:DS;">Ko-fi</a> | <a href="/ads/" style="font-family:DS; color:yellow;">Click on ads lol</a><br><i style="color:#00ff00; font-family:DS; opacity:0.7;">INSERT ANNOUNCEMENT HERE</i>
+<a href="/" style="font-family:DS;">MessText</a> | <a href="/image" style="font-family:DS;">MessText Images</a><br><i style="color:#00ff00; font-family:DS; opacity:0.7;">INSERT ANNOUNCEMENT HERE</i>
